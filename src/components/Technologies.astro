@@ -14,13 +14,13 @@ import TechnlogyCard from "./TechnlogyCard.astro";
 <div class="overflow-x-hidden whitespace-nowrap cursor-pointer">
   <div class="tech-card inline-block">
     {
-      technologies.map((tech) => {
-        return (
+      technologies.map((tech) => (
+(
           <div class=" inline-block m-0">
             <TechnlogyCard text={tech.text} logo={tech.logo} />
           </div>
-        );
-      })
+        )
+      ))
     }
   </div>
 </div>
