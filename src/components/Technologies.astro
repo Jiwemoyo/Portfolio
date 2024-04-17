@@ -11,16 +11,14 @@ import TechnlogyCard from "./TechnlogyCard.astro";
   </h2>
 </div>
 
-<div class="overflow-x-hidden whitespace-nowrap cursor-pointer">
+<div class="overflow-x-hidden whitespace-nowrap cursor-pointer" data-tech-wrapper>
   <div class="tech-card inline-block">
     {
-      technologies.map((tech) => {
-        return (
-          <div class=" inline-block m-0">
-            <TechnlogyCard text={tech.text} logo={tech.logo} />
-          </div>
-        );
-      })
+      technologies.map((tech) => (
+        <div class=" inline-block m-0">
+          <TechnlogyCard text={tech.text} logo={tech.logo} />
+        </div>
+      ))
     }
   </div>
 </div>
@@ -36,5 +34,15 @@ import TechnlogyCard from "./TechnlogyCard.astro";
     border-top-width: 1px;
     border-bottom-width: 1px;
     border-color: #ffffff26;
+    animation: 35s slide infinite linear;
+  }
+
+  @keyframes slide {
+    from{
+      transfomr:translateX(0)
+    }
+    to{
+      transform: translateX(-100%);
+    }
   }
 </style>
