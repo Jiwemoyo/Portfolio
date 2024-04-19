@@ -1,0 +1,21 @@
+.tech-card {
+    background-image: linear-gradient(
+      to bottom,
+      rgba(255, 255, 255, 0.05),
+      rgba(255, 255, 255, 0, 03)
+    );
+    padding-block: 2rem;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-color: #ffffff26;
+    animation: 35s slide infinite linear;
+  }
+
+  @keyframes slide {
+    from{
+      transfomr:translateX(0)
+    }
+    to{
+      transform: translateX(-100%);
+    }
+  }
