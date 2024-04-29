@@ -1,3 +1,5 @@
+
+
 export const socials = [
   {
     logo: "bx bxl-github",
@@ -71,3 +73,30 @@ export const technologies = [
     logo: "bx bxl-docker",
   },
 ];
+
+export const projects = [
+  {
+    title:"Proyecto 1",
+    description:"    Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, sequi perferendis officiis eum nesciunt eos reprehenderit unde odio ad enim cumque assumenda architecto suscipit aperiam vel accusamus, id at magnam! Doloremque consequatur cum alias, deserunt, accusamus sit nostrum, unde ratione expedita nemo ea facere. Quae soluta nisi vitae explicabo eligendi sed nesciunt recusandae vero sunt, quibusdam repellendus earum totam? Repellendus totam officiis ipsum soluta inventore odio dicta perspiciatis. Sit doloribus tempora nobis nulla ipsam aperiam nisi id cum sunt voluptatum error, eaque quidem sapiente iusto facere temporibus corporis voluptas exercitationem incidunt? Esse aperiam ipsum at id quae magni distinctio deleniti nesciunt, necessitatibus voluptate consectetur iusto cupiditate suscipit temporibus vel sed quisquam, vero nulla sit ducimus soluta.",
+    image:"PDP",
+    color:"#121234"
+  },
+  {
+    title:"Proyecto 2",
+    description:"    Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, sequi perferendis officiis eum nesciunt eos reprehenderit unde odio ad enim cumque assumenda architecto suscipit aperiam vel accusamus, id at magnam! Doloremque consequatur cum alias, deserunt, accusamus sit nostrum, unde ratione expedita nemo ea facere. Quae soluta nisi vitae explicabo eligendi sed nesciunt recusandae vero sunt, quibusdam repellendus earum totam? Repellendus totam officiis ipsum soluta inventore odio dicta perspiciatis. Sit doloribus tempora nobis nulla ipsam aperiam nisi id cum sunt voluptatum error, eaque quidem sapiente iusto facere temporibus corporis voluptas exercitationem incidunt? Esse aperiam ipsum at id quae magni distinctio deleniti nesciunt, necessitatibus voluptate consectetur iusto cupiditate suscipit temporibus vel sed quisquam, vero nulla sit ducimus soluta.",
+    image:"PDP",
+    color:"#121234"
+  },
+  {
+    title:"Proyecto 3",
+    description:"    Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, sequi perferendis officiis eum nesciunt eos reprehenderit unde odio ad enim cumque assumenda architecto suscipit aperiam vel accusamus, id at magnam! Doloremque consequatur cum alias, deserunt, accusamus sit nostrum, unde ratione expedita nemo ea facere. Quae soluta nisi vitae explicabo eligendi sed nesciunt recusandae vero sunt, quibusdam repellendus earum totam? Repellendus totam officiis ipsum soluta inventore odio dicta perspiciatis. Sit doloribus tempora nobis nulla ipsam aperiam nisi id cum sunt voluptatum error, eaque quidem sapiente iusto facere temporibus corporis voluptas exercitationem incidunt? Esse aperiam ipsum at id quae magni distinctio deleniti nesciunt, necessitatibus voluptate consectetur iusto cupiditate suscipit temporibus vel sed quisquam, vero nulla sit ducimus soluta.",
+    image:"PDP",
+    color:"#121234"
+  },
+  {
+    title:"Proyecto 4",
+    description:"    Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, sequi perferendis officiis eum nesciunt eos reprehenderit unde odio ad enim cumque assumenda architecto suscipit aperiam vel accusamus, id at magnam! Doloremque consequatur cum alias, deserunt, accusamus sit nostrum, unde ratione expedita nemo ea facere. Quae soluta nisi vitae explicabo eligendi sed nesciunt recusandae vero sunt, quibusdam repellendus earum totam? Repellendus totam officiis ipsum soluta inventore odio dicta perspiciatis. Sit doloribus tempora nobis nulla ipsam aperiam nisi id cum sunt voluptatum error, eaque quidem sapiente iusto facere temporibus corporis voluptas exercitationem incidunt? Esse aperiam ipsum at id quae magni distinctio deleniti nesciunt, necessitatibus voluptate consectetur iusto cupiditate suscipit temporibus vel sed quisquam, vero nulla sit ducimus soluta.",
+    image:"PDP",
+    color:"#121234"
+  },
+]
