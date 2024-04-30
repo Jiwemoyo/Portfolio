@@ -81,6 +81,7 @@ export const projects = [
         'Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat voluptatem ad, exercitationem in beatae voluptate fugit hic error, et quod maxime repellat iusto! Iusto nisi soluta hic minima! Temporibus sequi incidunt vitae dolorum error illo ducimus saepe blanditiis pariatur. Optio amet cum excepturi dignissimos aut tenetur repudiandae ad dolorem, distinctio minima inventore, neque adipisci, facilis autem quis quod nemo. Delectus sint deserunt repellat ea odio cupiditate repellendus eius saepe ipsa dicta vel nulla ullam sit deleniti accusantium quas dolore, veritatis dolores totam vitae voluptatem placeat fugiat similique alias? Possimus numquam aut illo velit repr.',
      image: 'image-blog',
      color: '#f3c201',
+     live:"https://proyectosmultiples.netlify.app/"
   },
   {
      title: 'Chatgpt API',
@@ -130,5 +131,14 @@ export const projects = [
         'Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat voluptatem ad, exercitationem in beatae voluptate fugit hic error, et quod maxime repellat iusto! Iusto nisi soluta hic minima! Temporibus sequi incidunt vitae dolorum error illo ducimus saepe blanditiis pariatur. Optio amet cum excepturi dignissimos aut tenetur repudiandae ad dolorem, distinctio minima inventore, neque adipisci, facilis autem quis quod nemo. Delectus sint deserunt repellat ea odio cupiditate repellendus eius saepe ipsa dicta vel nulla ullam sit deleniti accusantium quas dolore, veritatis dolores totam vitae voluptatem placeat fugiat similique alias? Possimus numquam aut illo velit repr.',
      image: 'image-youtube-clone',
      color: '#f7030c',
+  },
+];
+
+export const buttons = [
+  {
+     github: 'bx bxl-github',
+     demo: 'bx bx-desktop',
+     back: 'bx bxs-left-arrow-circle',
+     hrefgithub: 'https://github.com/Jiwemoyo'
   },
 ];
