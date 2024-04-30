@@ -76,27 +76,59 @@ export const technologies = [
 
 export const projects = [
   {
-    title:"Proyecto 1",
-    description:"    Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, sequi perferendis officiis eum nesciunt eos reprehenderit unde odio ad enim cumque assumenda architecto suscipit aperiam vel accusamus, id at magnam! Doloremque consequatur cum alias, deserunt, accusamus sit nostrum, unde ratione expedita nemo ea facere. Quae soluta nisi vitae explicabo eligendi sed nesciunt recusandae vero sunt, quibusdam repellendus earum totam? Repellendus totam officiis ipsum soluta inventore odio dicta perspiciatis. Sit doloribus tempora nobis nulla ipsam aperiam nisi id cum sunt voluptatum error, eaque quidem sapiente iusto facere temporibus corporis voluptas exercitationem incidunt? Esse aperiam ipsum at id quae magni distinctio deleniti nesciunt, necessitatibus voluptate consectetur iusto cupiditate suscipit temporibus vel sed quisquam, vero nulla sit ducimus soluta.",
-    image:"PDP",
-    color:"#121234"
+     title: 'Blog',
+     description:
+        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat voluptatem ad, exercitationem in beatae voluptate fugit hic error, et quod maxime repellat iusto! Iusto nisi soluta hic minima! Temporibus sequi incidunt vitae dolorum error illo ducimus saepe blanditiis pariatur. Optio amet cum excepturi dignissimos aut tenetur repudiandae ad dolorem, distinctio minima inventore, neque adipisci, facilis autem quis quod nemo. Delectus sint deserunt repellat ea odio cupiditate repellendus eius saepe ipsa dicta vel nulla ullam sit deleniti accusantium quas dolore, veritatis dolores totam vitae voluptatem placeat fugiat similique alias? Possimus numquam aut illo velit repr.',
+     image: 'image-blog',
+     color: '#f3c201',
   },
   {
-    title:"Proyecto 2",
-    description:"    Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, sequi perferendis officiis eum nesciunt eos reprehenderit unde odio ad enim cumque assumenda architecto suscipit aperiam vel accusamus, id at magnam! Doloremque consequatur cum alias, deserunt, accusamus sit nostrum, unde ratione expedita nemo ea facere. Quae soluta nisi vitae explicabo eligendi sed nesciunt recusandae vero sunt, quibusdam repellendus earum totam? Repellendus totam officiis ipsum soluta inventore odio dicta perspiciatis. Sit doloribus tempora nobis nulla ipsam aperiam nisi id cum sunt voluptatum error, eaque quidem sapiente iusto facere temporibus corporis voluptas exercitationem incidunt? Esse aperiam ipsum at id quae magni distinctio deleniti nesciunt, necessitatibus voluptate consectetur iusto cupiditate suscipit temporibus vel sed quisquam, vero nulla sit ducimus soluta.",
-    image:"PDP",
-    color:"#121234"
+     title: 'Chatgpt API',
+     description:
+        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat voluptatem ad, exercitationem in beatae voluptate fugit hic error, et quod maxime repellat iusto! Iusto nisi soluta hic minima! Temporibus sequi incidunt vitae dolorum error illo ducimus saepe blanditiis pariatur. Optio amet cum excepturi dignissimos aut tenetur repudiandae ad dolorem, distinctio minima inventore, neque adipisci, facilis autem quis quod nemo. .',
+     image: 'image-chatgpt-api',
+     color: '#1629ab',
   },
   {
-    title:"Proyecto 3",
-    description:"    Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, sequi perferendis officiis eum nesciunt eos reprehenderit unde odio ad enim cumque assumenda architecto suscipit aperiam vel accusamus, id at magnam! Doloremque consequatur cum alias, deserunt, accusamus sit nostrum, unde ratione expedita nemo ea facere. Quae soluta nisi vitae explicabo eligendi sed nesciunt recusandae vero sunt, quibusdam repellendus earum totam? Repellendus totam officiis ipsum soluta inventore odio dicta perspiciatis. Sit doloribus tempora nobis nulla ipsam aperiam nisi id cum sunt voluptatum error, eaque quidem sapiente iusto facere temporibus corporis voluptas exercitationem incidunt? Esse aperiam ipsum at id quae magni distinctio deleniti nesciunt, necessitatibus voluptate consectetur iusto cupiditate suscipit temporibus vel sed quisquam, vero nulla sit ducimus soluta.",
-    image:"PDP",
-    color:"#121234"
+     title: 'Ecommerce',
+     description:
+        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat voluptatem ad, exercitationem in beatae voluptate fugit hic error, et quod maxime repellat iusto! Iusto nisi soluta hic minima! Temporibus sequi incidunt vitae dolorum error illo ducimus saepe blanditiis pariatur. Optio amet cum excepturi dignissimos aut tenetur repudiandae ad dolorem, distinctio minima inventore, neque adipisci, facilis autem quis quod nemo. Delectus sint deserunt repellat ea odio cupiditate repellendus eius saepe ipsa dicta vel nulla ullam sit deleniti accusantium quas dolore, veritatis dolores totam vitae voluptatem placeat fugiat similique alias? Possimus numquam aut illo velit repr.',
+     image: 'image-ecommerce',
+     color: '#045fb7',
   },
   {
-    title:"Proyecto 4",
-    description:"    Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, sequi perferendis officiis eum nesciunt eos reprehenderit unde odio ad enim cumque assumenda architecto suscipit aperiam vel accusamus, id at magnam! Doloremque consequatur cum alias, deserunt, accusamus sit nostrum, unde ratione expedita nemo ea facere. Quae soluta nisi vitae explicabo eligendi sed nesciunt recusandae vero sunt, quibusdam repellendus earum totam? Repellendus totam officiis ipsum soluta inventore odio dicta perspiciatis. Sit doloribus tempora nobis nulla ipsam aperiam nisi id cum sunt voluptatum error, eaque quidem sapiente iusto facere temporibus corporis voluptas exercitationem incidunt? Esse aperiam ipsum at id quae magni distinctio deleniti nesciunt, necessitatibus voluptate consectetur iusto cupiditate suscipit temporibus vel sed quisquam, vero nulla sit ducimus soluta.",
-    image:"PDP",
-    color:"#121234"
+     title: 'Facebook Clone',
+     description:
+        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat voluptatem ad, exercitationem in beatae voluptate fugit hic error, et quod maxime repellat iusto! Iusto nisi soluta hic minima! Temporibus sequi incidunt vitae dolorum error illo ducimus saepe blanditiis pariatur. Optio amet cum excepturi dignissimos aut tenetur repudiandae ad dolorem, distinctio minima inventore, neque adipisci, facilis autem quis quod nemo. Delectus sint deserunt repellat ea odio cupiditate repellendus eius saepe ipsa dicta vel nulla ullam sit deleniti accusantium quas dolore, veritatis dolores totam vitae voluptatem placeat fugiat similique alias? Possimus numquam aut illo velit repr.',
+     image: 'image-facebook-clone',
+     color: '#146866',
   },
-]
+  {
+     title: 'Instagram Clone',
+     description:
+        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat voluptatem ad, exercitationem in beatae voluptate fugit hic error, et quod maxime repellat iusto! Iusto nisi soluta hic minima! Temporibus sequi incidunt vitae dolorum error illo ducimus saepe blanditiis pariatur. Optio amet cum excepturi dignissimos aut tenetur repudiandae ad dolorem, distinctio minima inventore, neque adipisci, facilis autem quis quod nemo. Delectus sint deserunt repellat ea odio cupiditate repellendus eius saepe ipsa dicta vel nulla ullam sit deleniti accusantium quas dolore, veritatis dolores totam vitae voluptatem placeat fugiat similique alias? Possimus numquam aut illo velit repr.',
+     image: 'image-instagram-clone',
+     color: '#17193f',
+  },
+  {
+     title: 'Slider',
+     description:
+        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat voluptatem ad, exercitationem in beatae voluptate fugit hic error, et quod maxime repellat iusto! Iusto nisi soluta hic minima! Temporibus sequi incidunt vitae dolorum error illo ducimus saepe blanditiis pariatur. Optio amet cum excepturi dignissimos aut tenetur repudiandae ad dolorem, distinctio minima inventore, neque adipisci, facilis autem quis quod nemo. Delectus sint deserunt repellat ea odio cupiditate repellendus eius saepe ipsa dicta vel nulla ullam sit deleniti accusantium quas dolore, veritatis dolores totam vitae voluptatem placeat fugiat similique alias? Possimus numquam aut illo velit repr.',
+     image: 'image-slider',
+     color: '#bbbbbb',
+  },
+  {
+     title: 'Spotify Clone',
+     description:
+        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat voluptatem ad, exercitationem in beatae voluptate fugit hic error, et quod maxime repellat iusto! Iusto nisi soluta hic minima! Temporibus sequi incidunt vitae dolorum error illo ducimus saepe blanditiis pariatur. Optio amet cum excepturi dignissimos aut tenetur repudiandae ad dolorem, distinctio minima inventore, neque adipisci, facilis autem quis quod nemo. Delectus sint deserunt repellat ea odio cupiditate repellendus eius saepe ipsa dicta vel nulla ullam sit deleniti accusantium quas dolore, veritatis dolores totam vitae voluptatem placeat fugiat similique alias? Possimus numquam aut illo velit repr.',
+     image: 'image-spotify-clone',
+     color: '#49d53c',
+  },
+  {
+     title: 'Youtube Clone',
+     description:
+        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat voluptatem ad, exercitationem in beatae voluptate fugit hic error, et quod maxime repellat iusto! Iusto nisi soluta hic minima! Temporibus sequi incidunt vitae dolorum error illo ducimus saepe blanditiis pariatur. Optio amet cum excepturi dignissimos aut tenetur repudiandae ad dolorem, distinctio minima inventore, neque adipisci, facilis autem quis quod nemo. Delectus sint deserunt repellat ea odio cupiditate repellendus eius saepe ipsa dicta vel nulla ullam sit deleniti accusantium quas dolore, veritatis dolores totam vitae voluptatem placeat fugiat similique alias? Possimus numquam aut illo velit repr.',
+     image: 'image-youtube-clone',
+     color: '#f7030c',
+  },
+];

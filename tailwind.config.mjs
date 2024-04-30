@@ -7,6 +7,9 @@ export default {
         xs: "280px",
         xxs: "400px",
       },
+      colors:{
+        context: 'var(--context-color)'
+      }
     },
   },
   plugins: [],
